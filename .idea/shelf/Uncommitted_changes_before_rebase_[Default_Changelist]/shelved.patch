@@ -1,0 +1,19 @@
+Index: .idea/checkstyle-idea.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"CheckStyle-IDEA\">\r\n    <option name=\"configuration\">\r\n      <map>\r\n        <entry key=\"checkstyle-version\" value=\"8.45\" />\r\n        <entry key=\"copy-libs\" value=\"true\" />\r\n        <entry key=\"location-0\" value=\"BUNDLED:(bundled):Sun Checks\" />\r\n        <entry key=\"location-1\" value=\"BUNDLED:(bundled):Google Checks\" />\r\n        <entry key=\"scan-before-checkin\" value=\"false\" />\r\n        <entry key=\"scanscope\" value=\"JavaOnly\" />\r\n        <entry key=\"suppress-errors\" value=\"false\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/checkstyle-idea.xml b/.idea/checkstyle-idea.xml
+--- a/.idea/checkstyle-idea.xml	(revision 1e3b7cce097dc46b362478401132a0ec7d861491)
++++ b/.idea/checkstyle-idea.xml	(date 1731182035003)
+@@ -3,7 +3,7 @@
+   <component name="CheckStyle-IDEA">
+     <option name="configuration">
+       <map>
+-        <entry key="checkstyle-version" value="8.45" />
++        <entry key="checkstyle-version" value="8.45.1" />
+         <entry key="copy-libs" value="true" />
+         <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+         <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
